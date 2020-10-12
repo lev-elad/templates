@@ -1,4 +1,3 @@
-# templates
-Repository for templates
+# NodeJS
 
 Run `npm start` to start
